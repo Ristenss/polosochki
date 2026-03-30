@@ -457,14 +457,15 @@ button,
     background-position: center;
     width: 1150px;
     height: 1000px;
+    margin-top: -60px;
     z-index: 1;
 }
 
 .risunok{
     width: 216px;
     height: 145px;
-    margin-left: -980px;
-    margin-top: 768px;
+    margin-left: -1185px;
+    margin-top: 710px;
     z-index: 2;
 }
 
