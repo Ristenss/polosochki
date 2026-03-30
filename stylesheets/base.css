@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(..//images/backgroundfull.svg);
+    background-size: cover;
+    max-width: 1440px;
+    min-height: 6944px;
+    background-repeat: no-repeat;
+    background-position: top center;
+    display: flex;
+    flex-direction: column;
+}
